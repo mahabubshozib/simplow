@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Men's Classic Shirt",
+    "description": "A timeless classic shirt for men, suitable for any occasion.",
+    "photos": [
+      "assets/images/men_classic_shirt.jpg",
+      "assets/images/men_denim.jpg"
+    ],
+    "availableStock": true,
+    "price": 39.99
+  },
+  {
+    "id": 2,
+    "title": "Women's Elegant Dress",
+    "description": "An elegant dress for women, perfect for formal events or parties.",
+    "photos": [
+      "assets/images/men_classic_shirt.jpg",
+      "assets/images/men_denim.jpg"
+    ],
+    "availableStock": true,
+    "price": 59.99
+  },
+  {
+    "id": 3,
+    "title": "Men's Casual Jeans",
+    "description": "Comfortable and stylish jeans for men, ideal for everyday wear.",
+    "photos": [
+      "assets/images/men_classic_shirt.jpg",
+      "assets/images/men_denim.jpg"
+    ],
+    "availableStock": true,
+    "price": 49.99
+  },
+  {
+    "id": 4,
+    "title": "Women's Sports Leggings",
+    "description": "Stretchy and breathable leggings for women, perfect for workouts or yoga.",
+    "photos": [
+      "assets/images/men_classic_shirt.jpg",
+      "assets/images/men_denim.jpg"
+    ],
+    "availableStock": true,
+    "price": 29.99
+  },
+  {
+    "id": 5,
+    "title": "Men's Leather Jacket",
+    "description": "A stylish leather jacket for men, adds a touch of ruggedness to any outfit.",
+    "photos": [
+      "assets/images/men_classic_shirt.jpg",
+      "assets/images/men_denim.jpg"
+    ],
+    "availableStock": true,
+    "price": 79.99
+  },
+  {
+    "id": 6,
+    "title": "Women's Casual T-Shirt",
+    "description": "A comfortable and versatile t-shirt for women, perfect for casual wear.",
+    "photos": [
+      "assets/images/men_classic_shirt.jpg",
+      "assets/images/men_denim.jpg"
+    ],
+    "availableStock": true,
+    "price": 19.99
+  }
+]
